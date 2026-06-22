@@ -1,11 +1,9 @@
-# Hi, I'm Ryad 👋
+# Hi, I'm Ryad 
 
-🎓 Engineering student at EMSI Casablanca
-📊 Aspiring Data Scientist & Data Analyst
-🐍 Learning Python, SQL, Data Analysis, and Machine Learning
-📚 Currently completing the IBM Data Science Professional Certificate
-🚀 Building projects to strengthen my data science portfolio
-🎮 Tech enthusiast, gamer, and lifelong learner
+Aspiring Data Scientist & Data Analyst
+Learning Python, SQL, Data Analysis, and Machine Learning
+Currently completing the IBM Data Science Professional Certificate
+Building projects to strengthen my data science portfolio
 
 ### Skills
 
@@ -14,7 +12,6 @@
 * Pandas
 * Jupyter Notebook
 * Excel
-* Data Visualization
 
 ### Current Goals
 
