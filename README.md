@@ -2,7 +2,7 @@
 
 Aspiring Data Scientist & Data Analyst
 Learning Python, SQL, Data Analysis, and Machine Learning
-Currently completing the IBM Data Science Professional Certificate
+Currently completing the IBM Data Science Professional Certificate and
 Building projects to strengthen my data science portfolio
 
 ### Skills
