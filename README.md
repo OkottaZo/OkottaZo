@@ -9,7 +9,6 @@ Building projects to strengthen my data science portfolio
 
 * Python
 * SQL
-* Pandas
 * Jupyter Notebook
 * Excel
 
