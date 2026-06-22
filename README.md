@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ryad 👋
 
-<!--
-**OkottaZo/OkottaZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at EMSI Casablanca
+📊 Aspiring Data Scientist & Data Analyst
+🐍 Learning Python, SQL, Data Analysis, and Machine Learning
+📚 Currently completing the IBM Data Science Professional Certificate
+🚀 Building projects to strengthen my data science portfolio
+🎮 Tech enthusiast, gamer, and lifelong learner
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Pandas
+* Jupyter Notebook
+* Excel
+* Data Visualization
+
+### Current Goals
+
+* Publish data science projects on GitHub
+* Build a strong portfolio
+* Gain real-world experience through internships
+* Explore machine learning and AI
+
+📫 Connect with me on LinkedIn and feel free to check out my projects!
